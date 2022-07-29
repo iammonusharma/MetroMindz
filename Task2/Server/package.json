@@ -1,0 +1,23 @@
+{
+  "name": "fastify-sitepoint",
+  "version": "1.0.0",
+  "description": "Fastify v3.0 example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fastify",
+    "Node.js",
+    "API",
+    "REST"
+  ],
+  "author":"Monu",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^8.0.0",
+    "@fastify/env": "^3.0.0",
+    "fastify": "^4.3.0",
+    "mongoose": "^6.5.0"
+  }
+}
